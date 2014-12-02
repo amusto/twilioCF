@@ -7,8 +7,8 @@
     <cfset This.loginstorage="session">     
 	<cfset this.sessionTimeout = createTimeSpan(0,4,0,0)>
 
-	<cfset REQUEST.AccountSid = "AC56a6aae00ce4fff35e94bcc0d89ebee2"/>
-	<cfset REQUEST.AuthToken = "232d4c8af300c3ec357d36302ee5ec1e"/>
+	<cfset REQUEST.AccountSid = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"/>
+	<cfset REQUEST.AuthToken = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"/>
 	<cfset REQUEST.ApiVersion = "2010-04-01"/>
 	<cfset REQUEST.ApiEndpoint = "api.twilio.com"/>
     
